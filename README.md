@@ -9,4 +9,4 @@ $ `./knock.py {ports separated by comma} {lport/target port}`
 
 ### Screenshot
 
-![screenshot from 2018-05-17 04-10-54](https://user-images.githubusercontent.com/26048627/40147702-5b4eb3cc-5988-11e8-8a22-e87b3006c864.png)
+![screenshot from 2018-05-17 04-22-33](https://user-images.githubusercontent.com/26048627/40148140-2810d844-598a-11e8-9024-7bf7eb1c07cf.png)
