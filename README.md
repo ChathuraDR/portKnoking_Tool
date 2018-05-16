@@ -1,9 +1,9 @@
 # Port Knoking Tool
-Simple python port knocking script for Linux
+Simple python port knocking script for Linux (without user input validation).
 
 ### How to use
 
-$ `chmod +x knock.py`
+$ `chmod 744 knock.py`
 
 $ `./knock.py {ports separated by comma} {lport/target port}`
 
